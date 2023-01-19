@@ -21,7 +21,7 @@ bundles your application's source code in dll files. This way, you get two benef
 * The resulting executable's size is small.
 
 We are using Windows for this tutorial, but most of the commands can be used as-it-is
-on other platforms including Linux and Mac. **Note that the build is platform independent,
+on other platforms including Linux and Mac. **Note that the build is platform dependent,
 meaning a Windows build will not work out-of-the-box on other OS**
 
 
